@@ -1,4 +1,6 @@
+window.alert("please run express server to see output!!!! if already did please ignore");
 document.addEventListener("DOMContentLoaded",async()=>{
+    
     let response = await fetch("http://localhost:3008");
     let api_data = await response.json();
     console.log(api_data);
