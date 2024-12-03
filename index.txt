@@ -1,0 +1,1 @@
+{"anime name":"Death note","protagonist":"Light yagami","antagonist":"Light yagami"}

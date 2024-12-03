@@ -1,0 +1,39 @@
+[
+    {
+       "description":"Welcome to Abhiram is thop resturant, where flavor meets experience. Nestled in the heart of Hyderbad, our restaurant offers a unique blend of [cuisine type] that tantalizes the taste buds and warms the soul. With a cozy yet stylish ambiance, we’ve created the perfect setting for everything from casual gatherings to intimate celebrations.Our menu features fresh, locally sourced ingredients, expertly crafted into dishes that showcase both tradition and innovation. Whether you’re craving biryani or looking to explore new flavors, each bite is a celebration of culinary artistry.Relax with friends over a handcrafted cocktail, savor the aroma of our open kitchen, or enjoy live music on select evenings. At Abhiram thop resturant, every meal is more than just food—it’s an experience",
+       "non_veg":[
+        {
+            "item":"biryani",
+            "image":"https://www.freshtohome.com/blog/wp-content/uploads/2024/08/Biryani.jpeg",
+            "price":100000000
+        },
+        {
+            "item":"chicken 65",
+            "image":"https://flavorquotient.com/wp-content/uploads/2020/11/Chicken-65-FQ-1-5548.jpg",
+            "price":100000000
+        },
+        {
+            "item":"chapala pulusu",
+            "image":"https://mycookingcanvas.com/wp-content/uploads/2020/08/90353E34-E095-4072-92A2-5F85CE522A99.jpeg",
+            "price":100000000
+        }
+       ] ,
+       "veg":[
+        {
+            "item":"pappu charu",
+            "image":"https://cookingfromheart.com/wp-content/uploads/2021/11/Pappu-Charu-4.jpg",
+            "price":100000000
+        },
+        {
+            "item":"dondakay",
+            "image":"https://www.indianrecipeinfo.com/wp-content/uploads/2021/02/Dondakaya-65-Recipe.jpg",
+            "price":100000000
+        },
+        {
+            "item":"meal maker curry",
+            "image":"https://i.ytimg.com/vi/uEirYWOaWKQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBzAqWuemygoNPmlIjbvb-0lN5kAA",
+            "price":100000000
+        }
+       ]
+    }
+]
