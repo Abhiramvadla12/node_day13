@@ -3,7 +3,7 @@ let fs = require("fs")
 let app = express();
 app.use(express.urlencoded({extended:true}));
 app.post("/",(req,res)=>{
-    fs.writeFile("index.txt",JSON.stringify(req.body),"utf-8",(err)=>{
+    fs.appendFile("index.txt",JSON.stringify(req.body),"utf-8",(err)=>{
         if(err){
             res.send(err.message);
         }
